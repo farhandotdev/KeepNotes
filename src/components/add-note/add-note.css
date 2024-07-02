@@ -1,0 +1,20 @@
+.addNote input{
+    line-height: 2rem;
+    width: 60%;
+    border: 0;
+    padding: 0;
+}
+.addNote select{
+    height: 2rem;
+    width: 15%;
+    border: 0;
+    padding: 0;
+}
+.addNote button{
+    line-height: 2rem;
+    width: 15%;
+    border: 0;
+    padding: 0;
+    background-color: rgb(34, 156, 34);
+    color: white;
+}
