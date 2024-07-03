@@ -9,3 +9,10 @@
     border-radius: 0.5rem;
     position: relative;
 }
+
+.card.light{
+    color: #333;
+}
+.card.dark{
+    color: white;
+}
